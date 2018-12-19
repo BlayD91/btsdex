@@ -1,7 +1,7 @@
 {
-  "name": "btsdex",
-  "version": "0.6.0",
-  "description": "Package for work with BitShares DEX",
+  "name": "btsdex-fix",
+  "version": "0.6.1",
+  "description": "Package for work with BitShares DEX. Fixed by BlayD91",
   "main": "index.js",
   "bin": {
     "btsdex": "./cli.js"

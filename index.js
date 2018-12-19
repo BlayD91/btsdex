@@ -1,1 +1,1 @@
-module.exports = require("./dist/bitshares").default
+module.exports = require("./dist/bitshares").default;
