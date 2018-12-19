@@ -23,6 +23,7 @@
     "@babel/runtime": "^7.1.2",
     "bignumber.js": "^7.2.1",
     "bitsharesjs": "^1.8.0",
+    "bitsharesjs-ws": "^1.5.5",
     "lzma": "^2.3.2"
   },
   "devDependencies": {
